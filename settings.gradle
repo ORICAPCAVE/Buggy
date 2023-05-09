@@ -1,0 +1,6 @@
+include ':app'
+rootProject.name = "Buggy"
+gradleEnterprise {
+    server = "https://gradle-enterprise.mycompany.com"
+    allowUntrustedServer = true
+}

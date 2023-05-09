@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kevinleckenby/Documents/Projects/Buggy2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-w936dp-v13/content_scrolling.xml",
+        "source": "/Users/kevinleckenby/Documents/Projects/Buggy2/app/src/main/res/layout-w936dp/content_scrolling.xml"
+    },
+    {
+        "merged": "/Users/kevinleckenby/Documents/Projects/Buggy2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-w936dp-v13/activity_login.xml",
+        "source": "/Users/kevinleckenby/Documents/Projects/Buggy2/app/src/main/res/layout-w936dp/activity_login.xml"
+    }
+]

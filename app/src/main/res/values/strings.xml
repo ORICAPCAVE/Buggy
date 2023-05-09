@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Buggy</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Annette">"    \n     In Loving Memory\n        of\n     Gracie Annette Leckenby\n\n   Annette was an avid Buggy player. While on family trips or at home outside or watching her favorite shows she would shout “Buggy!”, announcing a friendly competition. She was good at it and would usually win the games she announced.\n"</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="alert">Alert!</string>
+    <string name="title_activity_buggy2">buggy_2</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="Buttons">Button</string>
+    <string name="Rules">Buggy Rules</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="Log_In_Or_Register">Log In / Register</string>
+    <string name="title_activity_rules">Rules</string>
+    <string name="title_activity_dedication_page">Dedidications</string>
+    <string name="large_text">thhhhhhpppppp.</string>
+    <string name="Output">Output_View</string>
+    <string name="Tribute">Dedication</string>
+    <string name="home">Home</string>
+    <string name="Go_Pro">GoPro</string>
+    <string name="Michrophone">Mike</string>
+    <string name="Camera">Cam</string>
+    <string name="Cloud">files</string>
+    <string name="Settings">Settings</string>
+    <string name="Play_Bug">Playing Buggy!</string>
+    <string name="Stop">Stop playing Buggy!</string>
+    <string name="return_Main">Return</string>
+    <string name="exit">Exit</string>
+</resources>
